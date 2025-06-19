@@ -1,9 +1,9 @@
 include:
   - board: nice_nano_v2
-    shield: tklhandwire
+    shield: tklhandwire_left
 
   - board: nice_nano_v2
-    shield: tklhandwire
+    shield: tklhandwire_right
 
   - board: nice_nano_v2
     shield: settings_reset
